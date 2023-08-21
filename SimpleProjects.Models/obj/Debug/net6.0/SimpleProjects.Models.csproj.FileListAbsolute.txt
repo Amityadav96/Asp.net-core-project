@@ -1,0 +1,12 @@
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\bin\Debug\net6.0\SimpleProjects.Models.deps.json
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\bin\Debug\net6.0\SimpleProjects.Models.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\bin\Debug\net6.0\SimpleProjects.Models.pdb
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.csproj.AssemblyReference.cache
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.AssemblyInfoInputs.cache
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.AssemblyInfo.cs
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.csproj.CoreCompileInputs.cache
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\refint\SimpleProjects.Models.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\SimpleProjects.Models.pdb
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.Models\obj\Debug\net6.0\ref\SimpleProjects.Models.dll
