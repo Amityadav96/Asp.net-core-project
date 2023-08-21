@@ -1,0 +1,15 @@
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\bin\Debug\net6.0\SimpleProjects.DAL.deps.json
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\bin\Debug\net6.0\SimpleProjects.DAL.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\bin\Debug\net6.0\SimpleProjects.DAL.pdb
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\bin\Debug\net6.0\SimpleProjects.Models.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\bin\Debug\net6.0\SimpleProjects.Models.pdb
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.csproj.AssemblyReference.cache
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.AssemblyInfoInputs.cache
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.AssemblyInfo.cs
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.csproj.CoreCompileInputs.cache
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.csproj.CopyComplete
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\refint\SimpleProjects.DAL.dll
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\SimpleProjects.DAL.pdb
+C:\Users\amit yadav\source\repos\SimpleProjects\SimpleProjects.DAL\obj\Debug\net6.0\ref\SimpleProjects.DAL.dll
