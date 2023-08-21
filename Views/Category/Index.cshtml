@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Category> 
+<h1>List of Categories</h1>
+<i class="bi bi-plus-circle"><a asp-action="Create" asp-controller="Category">Create</a></i>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">CategoryId</th>
+      <th scope="col">Name</th>
+      <th scope="col">Display</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+              <th scope="row">@item.CategoryId</th>
+              <td>@item.Name</td>
+              <td>@item.Display</td>
+              <td><a href="#"> <i class="bi bi-plus-circle"></i>Edit</a></td>
+            </tr>
+        }
+  </tbody>
+</table>
